@@ -17,7 +17,6 @@ A modern, responsive, and neon-dark themed personal developer portfolio built wi
 - [Getting Started](#-getting-started)
 - [Featured Projects](#-featured-projects)
 - [Connect With Me](#-connect-with-me)
-- [License](#-license)
 
 ---
 
