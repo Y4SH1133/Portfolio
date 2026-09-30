@@ -3,7 +3,6 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
 A modern, responsive, and neon-dark themed personal developer portfolio built with semantic HTML, custom CSS animations, and Tailwind CSS. Designed to showcase my background as a student at Scaler School of Technology, my core technical skills, featured engineering projects, and contact channels.
 
@@ -109,9 +108,3 @@ A responsive web application integrating student profile management, a structure
 - **GitHub:** [@Y4SH1133](https://github.com/Y4SH1133)
 - **Email:** [chouguleyash0528@gmail.com](mailto:chouguleyash0528@gmail.com)
 - **Location:** Bengaluru, Karnataka, India
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) — feel free to use it as inspiration for your own portfolio!
